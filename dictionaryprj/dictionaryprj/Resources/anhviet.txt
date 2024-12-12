@@ -1,0 +1,999 @@
+﻿apple, quả táo, danh từ, /ˈæp.əl/
+banana, quả chuối, danh từ, /bəˈnæn.ə/
+orange, quả cam, danh từ, /ˈɒr.ɪndʒ/
+grape, quả nho, danh từ, /ɡreɪp/
+pineapple, quả dứa, danh từ, /ˈpaɪnˌæp.əl/
+mango, quả xoài, danh từ, /ˈmæŋ.ɡəʊ/
+papaya, quả đu đủ, danh từ, /pəˈpaɪ.ə/
+watermelon, quả dưa hấu, danh từ, /ˈwɔː.təˌmel.ən/
+cherry, quả anh đào, danh từ, /ˈtʃer.i/
+strawberry, quả dâu tây, danh từ, /ˈstrɔː.bər.i/
+kiwi, quả kiwi, danh từ, /ˈkiː.wiː/
+peach, quả đào, danh từ, /piːtʃ/
+pear, quả lê, danh từ, /peər/
+lychee, quả vải, danh từ, /ˈlaɪ.tʃiː/
+rambutan, quả chôm chôm, danh từ, /ræmˈbuː.tən/
+dragonfruit, quả thanh long, danh từ, /ˈdræɡ.ənˌfruːt/
+avocado, quả bơ, danh từ, /ˌæv.əˈkɑː.dəʊ/
+durian, quả sầu riêng, danh từ, /ˈdʒʊə.ri.ən/
+melon, quả dưa, danh từ, /ˈmel.ən/
+coconut, quả dừa, danh từ, /ˈkəʊ.kə.nʌt/
+fig, quả sung, danh từ, /fɪɡ/
+guava, quả ổi, danh từ, /ˈɡwɑː.və/
+pomegranate, quả lựu, danh từ, /ˈpɒm.ɪˌɡræn.ɪt/
+lemon, quả chanh vàng, danh từ, /ˈlem.ən/
+lime, quả chanh xanh, danh từ, /laɪm/
+blueberry, quả việt quất, danh từ, /ˈbluːˌbər.i/
+raspberry, quả mâm xôi, danh từ, /ˈrɑːz.bər.i/
+cranberry, quả nam việt quất, danh từ, /ˈkræn.bər.i/
+blackcurrant, quả lý chua đen, danh từ, /ˌblækˈkʌr.ənt/
+redcurrant, quả lý chua đỏ, danh từ, /ˈredˌkʌr.ənt/
+jackfruit, quả mít, danh từ, /ˈdʒæk.fruːt/
+tamarind, quả me, danh từ, /ˈtæm.ər.ɪnd/
+mangosteen, quả măng cụt, danh từ, /ˈmæŋ.ɡəʊ.stiːn/
+custard apple, quả na, danh từ, /ˈkʌs.təd ˌæp.əl/
+starfruit, quả khế, danh từ, /ˈstɑːr.fruːt/
+passionfruit, quả chanh dây, danh từ, /ˈpæʃ.ənˌfruːt/
+grapefruit, quả bưởi, danh từ, /ˈɡreɪpˌfruːt/
+persimmon, quả hồng, danh từ, /pəˈsɪm.ən/
+jujube, quả táo tàu, danh từ, /ˈdʒuː.dʒuːb/
+clementine, quả quýt, danh từ, /ˈklem.ən.taɪn/
+date, quả chà là, danh từ, /deɪt/
+longan, quả nhãn, danh từ, /ˈlɒŋ.ɡən/
+sapodilla, quả hồng xiêm, danh từ, /ˌsæp.əˈdɪl.ə/
+soursop, quả mãng cầu xiêm, danh từ, /ˈsaʊər.sɒp/
+apricot, quả mơ, danh từ, /ˈeɪ.prɪ.kɒt/
+cranberry, quả nam việt quất, danh từ, /ˈkræn.bər.i/
+loquat, quả sơn trà, danh từ, /ˈloʊ.kwɑːt/
+olive, quả ô liu, danh từ, /ˈɒl.ɪv/
+bilberry, quả việt quất châu Âu, danh từ, /ˈbɪl.bər.i/
+elderberry, quả cơm cháy, danh từ, /ˈel.dərˌber.i/
+gooseberry, quả lý gai, danh từ, /ˈɡʊz.bər.i/
+medlar, quả nhót tây, danh từ, /ˈmed.lər/
+boysenberry, quả lai mâm xôi dâu, danh từ, /ˈbɔɪ.zənˌber.i/
+cloudberry, quả mâm xôi vàng, danh từ, /ˈklaʊdˌber.i/
+salak, quả da rắn, danh từ, /ˈsæ.læk/
+ackee, quả akee, danh từ, /ˈæk.i/
+langsat, quả bòn bon, danh từ, /ˈlæŋ.sæt/
+acerola, quả sơ ri, danh từ, /ˌæs.əˈroʊ.lə/
+breadfruit, quả sa kê, danh từ, /ˈbred.fruːt/
+camu camu, quả camu camu, danh từ, /ˌkæm.uː ˈkæm.uː/
+lucuma, quả trứng gà, danh từ, /ˈluː.kə.mə/
+miracle fruit, quả thần kỳ, danh từ, /ˈmɪr.ə.kəl ˌfruːt/
+mulberry, quả dâu tằm, danh từ, /ˈmʌl.bər.i/
+pitaya, quả thanh long, danh từ, /pɪˈtaɪ.ə/
+pomelo, quả bưởi, danh từ, /ˈpɒm.ɪ.ləʊ/
+ugli fruit, quả chanh ugli, danh từ, /ˈʌɡ.li ˌfruːt/
+wineberry, quả mâm xôi đỏ, danh từ, /ˈwaɪnˌber.i/
+bayberry, quả thanh mai, danh từ, /ˈbeɪˌber.i/
+calamansi, quả tắc, danh từ, /ˌkæ.ləˈmæn.si/
+tamarillo, quả cà chua lạ, danh từ, /ˌtæm.əˈrɪl.oʊ/
+yumberry, quả dâu ngọt, danh từ, /ˈjʌmˌber.i/
+huckleberry, quả việt quất đen, danh từ, /ˈhʌk.əlˌber.i/
+jaboticaba, quả nho thân gỗ, danh từ, /dʒæˌbəʊ.tɪˈkɑː.bə/
+maqui berry, quả maqui, danh từ, /ˈmæ.ki ˌber.i/
+pepino, quả dưa lê, danh từ, /pəˈpiː.noʊ/
+physalis, quả tầm bóp, danh từ, /faɪˈseɪ.lɪs/
+quince, quả mộc qua, danh từ, /kwɪns/
+rowanberry, quả thanh lương trà, danh từ, /ˈroʊ.ənˌber.i/
+santol, quả sơn trà, danh từ, /ˈsæn.tɒl/
+sea buckthorn, quả nhót biển, danh từ, /siː ˈbʌk.θɔːrn/
+serviceberry, quả phục vụ, danh từ, /ˈsɜː.vɪsˌber.i/
+tayberry, quả dâu lai mâm xôi, danh từ, /ˈteɪˌber.i/
+wax apple, quả roi, danh từ, /wæks ˈæp.əl/
+white currant, quả lý chua trắng, danh từ, /waɪt ˈkʌr.ənt/
+yellow passionfruit, quả chanh dây vàng, danh từ, /ˈjɛl.oʊ ˈpæʃ.ənˌfruːt/
+bignay, quả cơm rượu, danh từ, /ˈbɪɡ.neɪ/
+bilimbi, quả khế tàu, danh từ, /ˈbɪl.ɪm.bi/
+capulin, quả anh đào đen, danh từ, /ˌkæ.puˈliːn/
+medlar, quả nhót, danh từ, /ˈmed.lər/
+pawpaw, quả đu đủ, danh từ, /ˈpɔː.pɔː/
+salacca, quả mây, danh từ, /səˈlæk.kə/
+spanish lime, quả chanh Tây Ban Nha, danh từ, /ˈspæn.ɪʃ ˌlaɪm/
+sapote, quả sapoche, danh từ, /səˈpəʊ.teɪ/
+surinam cherry, quả sơ ri Surinam, danh từ, /ˌsʊə.rɪˈnæm ˌtʃer.i/
+velvet apple, quả nhung táo, danh từ, /ˈvel.vɪt ˌæp.əl/
+wampee, quả hoàng bì, danh từ, /ˈwæm.piː/
+water apple, quả mận, danh từ, /ˈwɔː.tər ˌæp.əl/
+wax jambu, quả roi, danh từ, /ˈwæks ˌdʒæm.buː/
+whortleberry, quả nham lê, danh từ, /ˈwɜː.təlˌber.i/
+yangmei, quả dâu Trung Quốc, danh từ, /ˈjæŋˌmeɪ/
+football, bóng đá, danh từ, /ˈfʊt.bɔːl/
+basketball, bóng rổ, danh từ, /ˈbɑː.skɪt.bɔːl/
+volleyball, bóng chuyền, danh từ, /ˈvɒl.i.bɔːl/
+tennis, quần vợt, danh từ, /ˈten.ɪs/
+badminton, cầu lông, danh từ, /ˈbæd.mɪn.tən/
+table tennis, bóng bàn, danh từ, /ˈteɪ.bəl ˌten.ɪs/
+rugby, bóng bầu dục, danh từ, /ˈrʌɡ.bi/
+cricket, bóng gậy, danh từ, /ˈkrɪk.ɪt/
+baseball, bóng chày, danh từ, /ˈbeɪs.bɔːl/
+golf, đánh gôn, danh từ, /ɡɒlf/
+swimming, bơi lội, danh từ, /ˈswɪm.ɪŋ/
+cycling, đạp xe, danh từ, /ˈsaɪ.klɪŋ/
+athletics, điền kinh, danh từ, /æθˈlet.ɪks/
+running, chạy bộ, danh từ, /ˈrʌn.ɪŋ/
+marathon, chạy marathon, danh từ, /ˈmær.ə.θən/
+boxing, quyền anh, danh từ, /ˈbɒk.sɪŋ/
+wrestling, đấu vật, danh từ, /ˈres.lɪŋ/
+judo, nhu đạo, danh từ, /ˈdʒuː.dəʊ/
+karate, karate, danh từ, /kəˈrɑː.ti/
+taekwondo, taekwondo, danh từ, /ˌtaɪ.kwɒnˈdoʊ/
+fencing, đấu kiếm, danh từ, /ˈfen.sɪŋ/
+archery, bắn cung, danh từ, /ˈɑː.tʃər.i/
+skating, trượt băng, danh từ, /ˈskeɪ.tɪŋ/
+skiing, trượt tuyết, danh từ, /ˈskiː.ɪŋ/
+snowboarding, trượt ván trên tuyết, danh từ, /ˈsnəʊ.bɔː.dɪŋ/
+surfing, lướt sóng, danh từ, /ˈsɜː.fɪŋ/
+diving, lặn, danh từ, /ˈdaɪ.vɪŋ/
+gymnastics, thể dục dụng cụ, danh từ, /dʒɪmˈnæs.tɪks/
+weightlifting, cử tạ, danh từ, /ˈweɪtˌlɪf.tɪŋ/
+kayaking, chèo thuyền kayak, danh từ, /ˈkaɪ.æk.ɪŋ/
+rowing, chèo thuyền, danh từ, /ˈrəʊ.ɪŋ/
+sailing, chèo thuyền buồm, danh từ, /ˈseɪ.lɪŋ/
+equestrian, cưỡi ngựa, danh từ, /ɪˈkwes.tri.ən/
+polo, đánh polo, danh từ, /ˈpəʊ.ləʊ/
+chess, cờ vua, danh từ, /tʃes/
+checkers, cờ đam, danh từ, /ˈtʃek.əz/
+darts, phi tiêu, danh từ, /dɑːts/
+billiards, bida, danh từ, /ˈbɪl.jədz/
+snooker, snooker, danh từ, /ˈsnuː.kər/
+squash, bóng quần, danh từ, /skwɒʃ/
+handball, bóng ném, danh từ, /ˈhænd.bɔːl/
+lacrosse, bóng vợt, danh từ, /ləˈkrɒs/
+hockey, khúc côn cầu, danh từ, /ˈhɒk.i/
+ice hockey, khúc côn cầu trên băng, danh từ, /ˈaɪs ˌhɒk.i/
+kickboxing, kickboxing, danh từ, /ˈkɪkˌbɒk.sɪŋ/
+motor racing, đua xe mô tô, danh từ, /ˈməʊ.tə ˌreɪ.sɪŋ/
+car racing, đua ô tô, danh từ, /ˈkɑː ˌreɪ.sɪŋ/
+horse racing, đua ngựa, danh từ, /ˈhɔːs ˌreɪ.sɪŋ/
+track cycling, đua xe đạp lòng chảo, danh từ, /træk ˈsaɪ.klɪŋ/
+BMX racing, đua xe BMX, danh từ, /ˌbiː.emˈeks ˌreɪ.sɪŋ/
+triathlon, ba môn phối hợp, danh từ, /traɪˈæθ.lɒn/
+decathlon, mười môn phối hợp, danh từ, /dɪˈkæθ.lɒn/
+pentathlon, năm môn phối hợp, danh từ, /penˈtæθ.lɒn/
+shooting, bắn súng, danh từ, /ˈʃuː.tɪŋ/
+biathlon, hai môn phối hợp, danh từ, /baɪˈæθ.lɒn/
+tug-of-war, kéo co, danh từ, /ˌtʌɡ əv ˈwɔːr/
+frisbee, ném đĩa, danh từ, /ˈfrɪz.bi/
+parkour, chạy tự do, danh từ, /pɑːˈkʊər/
+skateboarding, trượt ván, danh từ, /ˈskeɪtˌbɔː.dɪŋ/
+rock climbing, leo núi đá, danh từ, /ˈrɒk ˌklaɪ.mɪŋ/
+mountaineering, leo núi, danh từ, /ˌmaʊn.tɪˈnɪə.rɪŋ/
+aerobics, thể dục nhịp điệu, danh từ, /eəˈrəʊ.bɪks/
+yoga, yoga, danh từ, /ˈjəʊ.ɡə/
+pilates, pilates, danh từ, /pɪˈlɑː.teɪz/
+zumba, zumba, danh từ, /ˈzʊm.bə/
+martial arts, võ thuật, danh từ, /ˈmɑː.ʃəl ˌɑːts/
+kung fu, kungfu, danh từ, /ˌkʌŋ ˈfuː/
+tai chi, thái cực quyền, danh từ, /ˌtaɪ ˈtʃiː/
+capoeira, capoeira, danh từ, /ˌkæp.əˈweə.rə/
+bodyboarding, lướt ván bụng, danh từ, /ˈbɒd.iˌbɔː.dɪŋ/
+kite surfing, lướt ván diều, danh từ, /ˈkaɪt ˌsɜː.fɪŋ/
+windsurfing, lướt ván buồm, danh từ, /ˈwɪndˌsɜː.fɪŋ/
+paragliding, dù lượn, danh từ, /ˈpær.əˌɡlaɪ.dɪŋ/
+hang gliding, dù lượn cánh cố định, danh từ, /ˈhæŋ ˌɡlaɪ.dɪŋ/
+bungee jumping, nhảy bungee, danh từ, /ˈbʌn.dʒi ˌdʒʌm.pɪŋ/
+free running, chạy tự do, danh từ, /ˈfriː ˌrʌn.ɪŋ/
+scuba diving, lặn với bình khí, danh từ, /ˈskuː.bə ˌdaɪ.vɪŋ/
+freediving, lặn tự do, danh từ, /ˈfriːˌdaɪ.vɪŋ/
+snorkeling, lặn có ống thở, danh từ, /ˈsnɔː.kəl.ɪŋ/
+caving, thám hiểm hang động, danh từ, /ˈkeɪ.vɪŋ/
+skydiving, nhảy dù, danh từ, /ˈskaɪˌdaɪ.vɪŋ/
+wingsuit flying, bay với bộ cánh, danh từ, /ˈwɪŋ.suːt ˌflaɪ.ɪŋ/
+base jumping, nhảy cơ sở, danh từ, /ˈbeɪs ˌdʒʌm.pɪŋ/
+rafting, chèo thuyền vượt thác, danh từ, /ˈrɑːf.tɪŋ/
+canoeing, chèo ca nô, danh từ, /kəˈnuː.ɪŋ/
+slacklining, đi trên dây chùng, danh từ, /ˈslækˌlaɪ.nɪŋ/
+curling, bi đá trên băng, danh từ, /ˈkɜː.lɪŋ/
+boccia, boccia, danh từ, /ˈbɒtʃ.ə/
+petanque, bi sắt, danh từ, /ˌpeɪˈtæŋk/
+ultimate frisbee, đĩa bay tối ưu, danh từ, /ˈʌl.tɪ.mət ˈfrɪz.bi/
+dodgeball, bóng né, danh từ, /ˈdɒdʒ.bɔːl/
+park skating, trượt patin công viên, danh từ, /ˈpɑːrk ˌskeɪ.tɪŋ/
+street skating, trượt patin đường phố, danh từ, /ˈstriːt ˌskeɪ.tɪŋ/
+kite flying, thả diều, danh từ, /ˈkaɪt ˌflaɪ.ɪŋ/
+tugging, kéo co, danh từ, /ˈtʌɡ.ɪŋ/
+roping, nhảy dây, danh từ, /ˈrəʊ.pɪŋ/
+vaulting, nhảy ngựa, danh từ, /ˈvɔːl.tɪŋ/
+high jump, nhảy cao, danh từ, /ˈhaɪ ˌdʒʌmp/
+pole vault, nhảy sào, danh từ, /ˈpəʊl ˌvɔːlt/
+shot put, ném tạ, danh từ, /ˈʃɒt ˌpʊt/
+kind, tốt bụng, tính từ, /kaɪnd/
+honest, trung thực, tính từ, /ˈɒn.ɪst/
+patient, kiên nhẫn, tính từ, /ˈpeɪ.ʃənt/
+brave, dũng cảm, tính từ, /breɪv/
+confident, tự tin, tính từ, /ˈkɒn.fɪ.dənt/
+cheerful, vui vẻ, tính từ, /ˈtʃɪə.fəl/
+loyal, trung thành, tính từ, /ˈlɔɪ.əl/
+generous, hào phóng, tính từ, /ˈdʒen.ər.əs/
+caring, quan tâm, tính từ, /ˈkeə.rɪŋ/
+friendly, thân thiện, tính từ, /ˈfrend.li/
+optimistic, lạc quan, tính từ, /ˌɒp.tɪˈmɪs.tɪk/
+ambitious, tham vọng, tính từ, /æmˈbɪʃ.əs/
+humble, khiêm tốn, tính từ, /ˈhʌm.bəl/
+responsible, có trách nhiệm, tính từ, /rɪˈspɒn.sə.bəl/
+reliable, đáng tin cậy, tính từ, /rɪˈlaɪ.ə.bəl/
+diligent, siêng năng, tính từ, /ˈdɪl.ɪ.dʒənt/
+compassionate, giàu lòng trắc ẩn, tính từ, /kəmˈpæʃ.ən.ət/
+curious, tò mò, tính từ, /ˈkjʊə.ri.əs/
+polite, lịch sự, tính từ, /pəˈlaɪt/
+thoughtful, chu đáo, tính từ, /ˈθɔːt.fəl/
+understanding, biết thông cảm, tính từ, /ˌʌn.dəˈstæn.dɪŋ/
+respectful, tôn trọng, tính từ, /rɪˈspekt.fəl/
+enthusiastic, nhiệt tình, tính từ, /ɪnˌθjuː.ziˈæs.tɪk/
+adaptable, dễ thích nghi, tính từ, /əˈdæp.tə.bəl/
+trustworthy, đáng tin cậy, tính từ, /ˈtrʌstˌwɜː.ði/
+supportive, hỗ trợ, tính từ, /səˈpɔː.tɪv/
+independent, độc lập, tính từ, /ˌɪn.dɪˈpen.dənt/
+self-disciplined, tự giác, tính từ, /ˌself ˈdɪs.ə.plɪnd/
+forgiving, bao dung, tính từ, /fəˈɡɪv.ɪŋ/
+sincere, chân thành, tính từ, /sɪnˈsɪə/
+warmhearted, ấm áp, tính từ, /ˌwɔːmˈhɑː.tɪd/
+considerate, ân cần, tính từ, /kənˈsɪd.ər.ət/
+determined, quyết tâm, tính từ, /dɪˈtɜː.mɪnd/
+courageous, can đảm, tính từ, /kəˈreɪ.dʒəs/
+passionate, đam mê, tính từ, /ˈpæʃ.ən.ət/
+open-minded, cởi mở, tính từ, /ˌəʊ.pənˈmaɪn.dɪd/
+dependable, đáng tin cậy, tính từ, /dɪˈpen.də.bəl/
+respectful, lễ phép, tính từ, /rɪˈspekt.fəl/
+intelligent, thông minh, tính từ, /ɪnˈtel.ɪ.dʒənt/
+witty, dí dỏm, tính từ, /ˈwɪt.i/
+creative, sáng tạo, tính từ, /kriˈeɪ.tɪv/
+resourceful, tháo vát, tính từ, /rɪˈzɔː.sfəl/
+perceptive, sâu sắc, tính từ, /pəˈsep.tɪv/
+attentive, chu đáo, tính từ, /əˈten.tɪv/
+tolerant, khoan dung, tính từ, /ˈtɒl.ər.ənt/
+prudent, thận trọng, tính từ, /ˈpruː.dənt/
+affectionate, trìu mến, tính từ, /əˈfek.ʃən.ət/
+humble, nhún nhường, tính từ, /ˈhʌm.bəl/
+calm, bình tĩnh, tính từ, /kɑːm/
+sociable, hòa đồng, tính từ, /ˈsəʊ.ʃə.bəl/
+intuitive, trực giác tốt, tính từ, /ɪnˈtʃuː.ɪ.tɪv/
+motivated, có động lực, tính từ, /ˈməʊ.tɪ.veɪ.tɪd/
+level-headed, điềm đạm, tính từ, /ˌlev.əlˈhed.ɪd/
+empathetic, đồng cảm, tính từ, /ˌem.pəˈθet.ɪk/
+proactive, chủ động, tính từ, /ˌprəʊˈæk.tɪv/
+disciplined, kỷ luật, tính từ, /ˈdɪs.ɪ.plɪnd/
+hardworking, chăm chỉ, tính từ, /ˌhɑːdˈwɜː.kɪŋ/
+forgiving, dễ tha thứ, tính từ, /fəˈɡɪv.ɪŋ/
+approachable, dễ gần, tính từ, /əˈprəʊ.tʃə.bəl/
+thoughtful, suy tư, tính từ, /ˈθɔːt.fəl/
+cooperative, hợp tác, tính từ, /kəʊˈɒp.ər.ə.tɪv/
+humorous, hài hước, tính từ, /ˈhjuː.mə.rəs/
+straightforward, thẳng thắn, tính từ, /ˌstreɪtˈfɔː.wəd/
+modest, giản dị, tính từ, /ˈmɒd.ɪst/
+resilient, kiên cường, tính từ, /rɪˈzɪl.i.ənt/
+diplomatic, khéo léo, tính từ, /ˌdɪp.ləˈmæt.ɪk/
+gentle, nhẹ nhàng, tính từ, /ˈdʒen.tl/
+punctual, đúng giờ, tính từ, /ˈpʌŋk.tʃu.əl/
+dynamic, năng động, tính từ, /daɪˈnæm.ɪk/
+optimistic, yêu đời, tính từ, /ˌɒp.tɪˈmɪs.tɪk/
+idealistic, lý tưởng, tính từ, /ˌaɪ.dɪəˈlɪs.tɪk/
+forgiving, nhân từ, tính từ, /fəˈɡɪv.ɪŋ/
+balanced, cân bằng, tính từ, /ˈbæl.ənst/
+cautious, cẩn thận, tính từ, /ˈkɔː.ʃəs/
+flexible, linh hoạt, tính từ, /ˈflek.sɪ.bəl/
+empathetic, thấu cảm, tính từ, /ˌem.pəˈθet.ɪk/
+meticulous, tỉ mỉ, tính từ, /məˈtɪk.jə.ləs/
+visionary, có tầm nhìn, tính từ, /ˈvɪʒ.ən.ri/
+assertive, quyết đoán, tính từ, /əˈsɜː.tɪv/
+cooperative, dễ hợp tác, tính từ, /kəʊˈɒp.ər.ə.tɪv/
+energetic, tràn đầy năng lượng, tính từ, /ˌen.əˈdʒet.ɪk/
+charismatic, có sức hút, tính từ, /ˌkær.ɪzˈmæt.ɪk/
+disciplined, nghiêm túc, tính từ, /ˈdɪs.ɪ.plɪnd/
+reflective, biết suy ngẫm, tính từ, /rɪˈflek.tɪv/
+openhearted, chân thành, tính từ, /ˌəʊ.pənˈhɑː.tɪd/
+balanced, ổn định, tính từ, /ˈbæl.ənst/
+fearless, không sợ hãi, tính từ, /ˈfɪə.ləs/
+tactful, khéo léo, tính từ, /ˈtækt.fəl/
+sensible, hợp lý, tính từ, /ˈsen.sə.bəl/
+ethical, đạo đức, tính từ, /ˈeθ.ɪ.kəl/
+trustworthy, đáng tin, tính từ, /ˈtrʌstˌwɜː.ði/
+resilient, bền bỉ, tính từ, /rɪˈzɪl.i.ənt/
+focused, tập trung, tính từ, /ˈfəʊ.kəst/
+insightful, sâu sắc, tính từ, /ˈɪn.saɪt.fəl/
+inventive, sáng tạo, tính từ, /ɪnˈven.tɪv/
+self-reliant, tự lực, tính từ, /ˌself.rɪˈlaɪ.ənt/
+approachable, thân thiện, tính từ, /əˈprəʊ.tʃə.bəl/
+optimistic, tích cực, tính từ, /ˌɒp.tɪˈmɪs.tɪk/
+generous, rộng lượng, tính từ, /ˈdʒen.ər.əs/
+study, học, động từ, /ˈstʌd.i/
+learn, học hỏi, động từ, /lɜːn/
+education, giáo dục, danh từ, /ˌed.jʊˈkeɪ.ʃən/
+knowledge, kiến thức, danh từ, /ˈnɒ.lɪdʒ/
+teacher, giáo viên, danh từ, /ˈtiː.tʃər/
+student, học sinh, danh từ, /ˈstjuː.dənt/
+homework, bài tập về nhà, danh từ, /ˈhəʊm.wɜːk/
+classroom, lớp học, danh từ, /ˈklɑːs.ruːm/
+exam, kỳ thi, danh từ, /ɪɡˈzæm/
+test, bài kiểm tra, danh từ, /tɛst/
+assignment, bài tập, danh từ, /əˈsaɪnmənt/
+university, đại học, danh từ, /ˌjuː.nɪˈvɜː.sɪ.ti/
+college, trường cao đẳng, danh từ, /ˈkɒl.ɪdʒ/
+degree, bằng cấp, danh từ, /dɪˈɡriː/
+lecture, bài giảng, danh từ, /ˈlɛk.tʃər/
+curriculum, chương trình học, danh từ, /kəˈrɪk.jʊ.ləm/
+seminar, hội thảo, danh từ, /ˈsɛ.mɪ.nɑːr/
+textbook, sách giáo khoa, danh từ, /ˈtɛksˌbʊk/
+subject, môn học, danh từ, /ˈsʌb.dʒɪkt/
+grade, điểm số, danh từ, /ɡreɪd/
+scholarship, học bổng, danh từ, /ˈskɒl.ə.ʃɪp/
+academic, học thuật, tính từ, /ˌæk.əˈdem.ɪk/
+research, nghiên cứu, động từ, /rɪˈsɜːtʃ/
+practice, thực hành, động từ, /ˈpræk.tɪs/
+understand, hiểu, động từ, /ˌʌn.dəˈstænd/
+explain, giải thích, động từ, /ɪkˈspleɪn/
+review, ôn tập, động từ, /rɪˈvjuː/
+study group, nhóm học, danh từ, /ˈstʌd.i ɡruːp/
+note, ghi chú, danh từ, /nəʊt/
+quiz, bài trắc nghiệm, danh từ, /kwɪz/
+tutorial, bài hướng dẫn, danh từ, /tjuːˈtɔːr.i.əl/
+thesis, luận án, danh từ, /ˈθiː.sɪs/
+dissertation, luận văn, danh từ, /ˌdɪs.əˈteɪ.ʃən/
+revision, sự ôn tập, danh từ, /rɪˈvɪʒ.ən/
+concept, khái niệm, danh từ, /ˈkɒn.sept/
+skill, kỹ năng, danh từ, /skɪl/
+tutorial, bài học riêng, danh từ, /tjuːˈtɔːr.i.əl/
+library, thư viện, danh từ, /ˈlaɪ.brər.i/
+attendance, sự tham dự, danh từ, /əˈtɛndəns/
+diploma, chứng chỉ, danh từ, /dɪˈpləʊ.mə/
+degree, học vị, danh từ, /dɪˈɡriː/
+mentor, người hướng dẫn, danh từ, /ˈmɛn.tɔːr/
+tutor, gia sư, danh từ, /ˈtjuːtə/
+assignment, nhiệm vụ, danh từ, /əˈsaɪnmənt/
+classmate, bạn học, danh từ, /ˈklɑːs.meɪt/
+lecture hall, giảng đường, danh từ, /ˈlɛk.tʃər hɔːl/
+campus, khuôn viên trường, danh từ, /ˈkæm.pəs/
+qualification, chứng chỉ, danh từ, /ˌkwɒ.lɪ.fɪˈkeɪ.ʃən/
+deadline, thời hạn, danh từ, /ˈded.laɪn/
+online course, khóa học trực tuyến, danh từ, /ˈɒn.laɪn kɔːs/
+attendance, sự có mặt, danh từ, /əˈtɛndəns/
+enrollment, sự ghi danh, danh từ, /ɪnˈrəʊl.mənt/
+laboratory, phòng thí nghiệm, danh từ, /ləˈbɒr.ə.tɔːr.i/
+discussion, cuộc thảo luận, danh từ, /dɪsˈkʌʃən/
+concentration, sự tập trung, danh từ, /ˌkɒn.sənˈtreɪ.ʃən/
+lecture notes, ghi chép bài giảng, danh từ, /ˈlɛk.tʃər nəʊts/
+curriculum vitae, lý lịch học thuật, danh từ, /kəˈrɪk.jʊ.ləm ˈviː.taɪ/
+study plan, kế hoạch học tập, danh từ, /ˈstʌd.i plæn/
+learning style, phong cách học, danh từ, /ˈlɜː.nɪŋ staɪl/
+critical thinking, tư duy phản biện, danh từ, /ˈkrɪtɪkəl ˈθɪŋkɪŋ/
+analytical skills, kỹ năng phân tích, danh từ, /ˌæn.əˈlɪtɪkəl skɪlz/
+teamwork, làm việc nhóm, danh từ, /ˈtiːmˌwɜːk/
+motivation, động lực, danh từ, /ˌməʊ.tɪˈveɪ.ʃən/
+achievement, thành tựu, danh từ, /əˈtʃiːv.mənt/
+discipline, kỷ luật, danh từ, /ˈdɪs.ɪ.plɪn/
+participation, sự tham gia, danh từ, /pɑːˌtɪsɪˈpeɪʃən/
+debate, cuộc tranh luận, danh từ, /dɪˈbeɪt/
+interaction, sự tương tác, danh từ, /ˌɪn.təˈræk.ʃən/
+group project, dự án nhóm, danh từ, /ɡruːp ˈprɒdʒ.ekt/
+writing skills, kỹ năng viết, danh từ, /ˈraɪtɪŋ skɪlz/
+speaking skills, kỹ năng nói, danh từ, /ˈspiː.kɪŋ skɪlz/
+reading comprehension, khả năng đọc hiểu, danh từ, /ˈriː.dɪŋ ˌkɒm.prɪˈhen.ʃən/
+note-taking, việc ghi chép, danh từ, /nəʊt ˈteɪ.kɪŋ/
+research paper, bài nghiên cứu, danh từ, /rɪˈsɜːtʃ ˈpeɪ.pər/
+practical skills, kỹ năng thực hành, danh từ, /ˈpræk.tɪ.kəl skɪlz/
+understanding, sự hiểu biết, danh từ, /ˌʌn.dəˈstæn.dɪŋ/
+comprehension, sự hiểu, danh từ, /ˌkɒm.prɪˈhen.ʃən/
+study habits, thói quen học tập, danh từ, /ˈstʌd.i ˈhæbɪts/
+online learning, học trực tuyến, danh từ, /ˈɒn.laɪn ˈlɜː.nɪŋ/
+blended learning, học kết hợp, danh từ, /ˈblen.dɪd ˈlɜː.nɪŋ/
+self-study, tự học, danh từ, /ˈself ˈstʌd.i/
+academic year, năm học, danh từ, /ˌæk.əˈdemɪk jɪər/
+peer review, đánh giá đồng nghiệp, danh từ, /pɪər rɪˈvjuː/
+syllabus, đề cương, danh từ, /ˈsɪl.ə.bəs/
+learning outcome, kết quả học tập, danh từ, /ˈlɜː.nɪŋ ˈaʊt.kʌm/
+revision session, buổi ôn tập, danh từ, /rɪˈvɪʒ.ən ˈsɛʃ.ən/
+group discussion, thảo luận nhóm, danh từ, /ɡruːp dɪsˈkʌʃən/
+course material, tài liệu khóa học, danh từ, /kɔːs məˈtɪə.ri.əl/
+critical analysis, phân tích phản biện, danh từ, /ˈkrɪtɪkəl əˈnæl.ɪ.sɪs/
+study guide, hướng dẫn học, danh từ, /ˈstʌdi ɡaɪd/
+academic performance, hiệu suất học tập, danh từ, /ˌæk.əˈdemɪk pəˈfɔː.məns/
+final exam, kỳ thi cuối kỳ, danh từ, /ˈfaɪ.nəl ɪɡˈzæm/
+brainstorming, động não, danh từ, /ˈbreɪnˌstɔː.mɪŋ/
+focus, tập trung, động từ, /ˈfəʊ.kəs/
+clarify, làm rõ, động từ, /ˈklær.ɪ.faɪ/
+evaluate, đánh giá, động từ, /ɪˈvæl.jʊ.eɪt/
+summarize, tóm tắt, động từ, /ˈsʌm.ə.raɪz/
+motivate, động viên, động từ, /ˈməʊ.tɪ.veɪt/
+apply, áp dụng, động từ, /əˈplaɪ/
+organize, tổ chức, động từ, /ˈɔː.ɡə.naɪz/
+fashion, thời trang, danh từ, /ˈfæʃ.ən/
+clothing, quần áo, danh từ, /ˈkləʊ.ðɪŋ/
+style, phong cách, danh từ, /staɪl/
+outfit, bộ trang phục, danh từ, /ˈaʊt.fɪt/
+designer, nhà thiết kế, danh từ, /dɪˈzaɪ.nər/
+trend, xu hướng, danh từ, /trɛnd/
+boutique, cửa hàng thời trang, danh từ, /buːˈtiːk/
+runway, sàn diễn thời trang, danh từ, /ˈrʌn.weɪ/
+fabric, vải, danh từ, /ˈfæb.rɪk/
+accessory, phụ kiện, danh từ, /əkˈsɛsəri/
+shoes, giày, danh từ, /ʃuːz/
+dress, đầm, danh từ, /drɛs/
+shirt, áo sơ mi, danh từ, /ʃɜːt/
+pants, quần, danh từ, /pænts/
+jacket, áo khoác, danh từ, /ˈdʒækɪt/
+skirt, chân váy, danh từ, /skɜːt/
+blouse, áo blouse, danh từ, /blaʊz/
+jeans, quần jean, danh từ, /dʒiːnz/
+suit, bộ vest, danh từ, /suːt/
+sweater, áo len, danh từ, /ˈswɛtər/
+coat, áo khoác, danh từ, /kəʊt/
+socks, tất, danh từ, /sɒks/
+tie, cà vạt, danh từ, /taɪ/
+gloves, găng tay, danh từ, /ɡlʌvz/
+hat, mũ, danh từ, /hæt/
+scarf, khăn quàng, danh từ, /skɑːf/
+watch, đồng hồ, danh từ, /wɒtʃ/
+sunglasses, kính râm, danh từ, /ˈsʌnˌɡlɑːsɪz/
+purse, ví, danh từ, /pɜːs/
+wallet, ví tiền, danh từ, /ˈwɒlɪt/
+boots, giày ống, danh từ, /buːts/
+sandals, dép, danh từ, /ˈsændl̩z/
+heels, giày cao gót, danh từ, /hiːlz/
+casual, bình thường, tính từ, /ˈkæʒʊəl/
+formal, trang trọng, tính từ, /ˈfɔːməl/
+elegant, thanh lịch, tính từ, /ˈɛlɪɡənt/
+chic, sang trọng, tính từ, /ʃɪk/
+trendy, hợp thời trang, tính từ, /ˈtrɛndi/
+stylish, sành điệu, tính từ, /ˈstaɪ.lɪʃ/
+fashionable, hợp mốt, tính từ, /ˈfæʃ.ən.ə.bəl/
+glamorous, quyến rũ, tính từ, /ˈɡlæmərəs/
+sporty, thể thao, tính từ, /ˈspɔːti/
+comfortable, thoải mái, tính từ, /ˈkʌmfətəbl/
+loose, rộng, tính từ, /luːs/
+tight, chật, tính từ, /taɪt/
+oversized, quá khổ, tính từ, /ˈəʊvəˌsaɪzd/
+fitted, vừa vặn, tính từ, /ˈfɪtɪd/
+vintage, cổ điển, tính từ, /ˈvɪn.tɪdʒ/
+bohemian, bohemien, tính từ, /bəʊˈhiː.mi.ən/
+sporty, thể thao, tính từ, /ˈspɔːti/
+classic, cổ điển, tính từ, /ˈklæsɪk/
+modern, hiện đại, tính từ, /ˈmɒd.ən/
+avant-garde, tiên phong, tính từ, /ˌæv.ɒ̃ˈɡɑːd/
+matching, phù hợp, tính từ, /ˈmætʃɪŋ/
+luxurious, sang trọng, tính từ, /lʌɡˈʊə.riəs/
+minimalistic, tối giản, tính từ, /ˌmɪnɪmælˈɪstɪk/
+urban, đô thị, tính từ, /ˈɜː.bən/
+couture, thời trang cao cấp, danh từ, /kuːˈtjʊər/
+ready-to-wear, may sẵn, tính từ, /ˌrɛdi tə ˈweər/
+fashion show, buổi trình diễn thời trang, danh từ, /ˈfæʃ.ən ʃoʊ/
+runway model, người mẫu trên sàn diễn, danh từ, /ˈrʌn.weɪ ˈmɒd.əl/
+fashion icon, biểu tượng thời trang, danh từ, /ˈfæʃ.ən ˈaɪ.kɒn/
+haute couture, thời trang cao cấp, danh từ, /oʊt kuːˈtjʊər/
+street style, phong cách đường phố, danh từ, /striːt staɪl/
+outfit combination, phối đồ, danh từ, /ˈaʊt.fɪt ˌkɒmbɪˈneɪʃən/
+color palette, bảng màu, danh từ, /ˈkʌlər ˈpælɪt/
+seasonal collection, bộ sưu tập theo mùa, danh từ, /ˈsiː.zənl kəˈlɛk.ʃən/
+trendsetter, người tạo xu hướng, danh từ, /ˈtrɛndˌsɛtər/
+tailor, thợ may, danh từ, /ˈteɪlər/
+seamstress, thợ may nữ, danh từ, /ˈsiːmstrəs/
+embroidery, thêu, danh từ, /ɪmˈbrɔɪdəri/
+fabric swatch, mẫu vải, danh từ, /ˈfæbrɪk swɒtʃ/
+zipper, khóa kéo, danh từ, /ˈzɪpər/
+button, cúc áo, danh từ, /ˈbʌt.ən/
+lace, ren, danh từ, /leɪs/
+pleat, nếp gấp, danh từ, /pliːt/
+hem, gấu quần, danh từ, /hɛm/
+stitch, mũi khâu, danh từ, /stɪtʃ/
+pattern, hoa văn, danh từ, /ˈpæt.ən/
+cotton, vải bông, danh từ, /ˈkɒt.ən/
+wool, len, danh từ, /wʊl/
+silk, lụa, danh từ, /sɪlk/
+leather, da, danh từ, /ˈlɛðər/
+denim, vải bò, danh từ, /ˈdɛnɪm/
+polyester, vải polyester, danh từ, /ˌpɒlɪˈɛstər/
+velvet, nhung, danh từ, /ˈvɛlvɪt/
+sequins, kim sa, danh từ, /ˈsiː.kwɪnz/
+embroidery, thêu, danh từ, /ɪmˈbrɔɪdəri/
+accessories, phụ kiện, danh từ, /əkˈsɛsəriːz/
+footwear, giày dép, danh từ, /ˈfʊt.weər/
+oversized jacket, áo khoác rộng, danh từ, /ˈəʊvərˌsaɪzd ˈdʒækɪt/
+ankle boots, giày ống cổ chân, danh từ, /ˈæŋkəl buːts/
+fashionista, người đam mê thời trang, danh từ, /ˌfæʃəˈnɪstə/
+personal style, phong cách cá nhân, danh từ, /ˈpɜːsənl staɪl/
+clothing line, dòng sản phẩm thời trang, danh từ, /ˈkləʊðɪŋ laɪn/
+designer label, nhãn hiệu thiết kế, danh từ, /dɪˈzaɪnər ˈleɪbəl/
+fashion week, tuần lễ thời trang, danh từ, /ˈfæʃən wiːk/
+accessory collection, bộ sưu tập phụ kiện, danh từ, /əkˈsɛsəri kəˈlɛkʃən/
+fashion trend, xu hướng thời trang, danh từ, /ˈfæʃən trɛnd/
+seasonal fashion, thời trang theo mùa, danh từ, /ˈsiːzənl ˈfæʃən/
+environment, môi trường, danh từ, /ɪnˈvaɪrənmənt/
+pollution, ô nhiễm, danh từ, /pəˈlʊʃən/
+climate, khí hậu, danh từ, /ˈklaɪmət/
+ecosystem, hệ sinh thái, danh từ, /ˈiːkəʊˌsɪstəm/
+conservation, bảo tồn, danh từ, /ˌkɒnsəˈveɪʃən/
+greenhouse effect, hiệu ứng nhà kính, danh từ, /ˈɡriːnˌhaʊs ɪˈfɛkt/
+deforestation, nạn phá rừng, danh từ, /ˌdiːfɒrɪˈsteɪʃən/
+biodiversity, đa dạng sinh học, danh từ, /ˌbaɪəʊdaɪˈvɜːsəti/
+carbon footprint, dấu chân carbon, danh từ, /ˈkɑːbən ˈfʊtprɪnt/
+renewable, tái tạo, tính từ, /rɪˈnjuːəbl/
+sustainability, bền vững, danh từ, /səˌsteɪnəˈbɪləti/
+recycling, tái chế, danh từ, /rɪˈsaɪklɪŋ/
+conservationist, nhà bảo vệ môi trường, danh từ, /ˌkɒnsəˈveɪʃənɪst/
+habitat, môi trường sống, danh từ, /ˈhæbɪtæt/
+extinction, sự tuyệt chủng, danh từ, /ɪksˈtɪŋkʃən/
+carbon dioxide, khí CO2, danh từ, /ˈkɑːbən daɪˈɒksaɪd/
+greenhouse gases, khí nhà kính, danh từ, /ˈɡriːnˌhaʊs ˈɡæsɪz/
+ozone layer, tầng ozone, danh từ, /ˈəʊzəʊn ˈleɪər/
+water cycle, vòng tuần hoàn nước, danh từ, /ˈwɔːtə ˈsaɪkl/
+global warming, sự nóng lên toàn cầu, danh từ, /ˈɡləʊbəl ˈwɔːmɪŋ/
+smog, sương mù, danh từ, /smɒɡ/
+contamination, sự ô nhiễm, danh từ, /kənˌtæmɪˈneɪʃən/
+pollution control, kiểm soát ô nhiễm, danh từ, /pəˈlʊʃən kənˈtrəʊl/
+waste management, quản lý chất thải, danh từ, /weɪst ˈmænɪdʒmənt/
+biodegradable, phân hủy sinh học, tính từ, /ˌbaɪəʊdɪˈɡrædəbl/
+organic, hữu cơ, tính từ, /ɔːˈɡænɪk/
+alternative energy, năng lượng thay thế, danh từ, /ɔːlˈtɜːnətɪv ˈɛnədʒi/
+wind energy, năng lượng gió, danh từ, /wɪnd ˈɛnədʒi/
+solar energy, năng lượng mặt trời, danh từ, /ˈsəʊlə ˈɛnədʒi/
+hydroelectric power, năng lượng thủy điện, danh từ, /ˌhaɪdrəʊɪˈlɛktrɪk ˈpaʊər/
+geothermal energy, năng lượng địa nhiệt, danh từ, /ˌdʒiːəʊˈθɜːməl ˈɛnədʒi/
+nuclear energy, năng lượng hạt nhân, danh từ, /ˈnjuːklɪər ˈɛnədʒi/
+fossil fuels, nhiên liệu hóa thạch, danh từ, /ˈfɒsəl ˈfjuːəlz/
+carbon neutral, trung hòa carbon, tính từ, /ˈkɑːbən ˈnjuːtrəl/
+eco-friendly, thân thiện với môi trường, tính từ, /ˈiːkəʊˈfrɛndli/
+emissions, khí thải, danh từ, /ɪˈmɪʃənz/
+waste disposal, xử lý chất thải, danh từ, /weɪst dɪˈspəʊzəl/
+landfills, bãi chôn lấp, danh từ, /ˈlændˌfɪlz/
+biodegradable materials, vật liệu phân hủy sinh học, danh từ, /ˌbaɪəʊdɪˈɡrædəbl məˈtɪərɪəlz/
+deforestation, nạn phá rừng, danh từ, /ˌdiːfɒrɪˈsteɪʃən/
+reforestation, tái trồng rừng, danh từ, /ˌriːfɒrɪˈsteɪʃən/
+sustainable agriculture, nông nghiệp bền vững, danh từ, /səˈsteɪnəbl ˈæɡrɪkʌltʃər/
+ecosystem restoration, phục hồi hệ sinh thái, danh từ, /ˌiːkəʊsɪstəm ˌrɛstɔːˈreɪʃən/
+water pollution, ô nhiễm nước, danh từ, /ˈwɔːtə pəˈlʊʃən/
+air pollution, ô nhiễm không khí, danh từ, /ɛə pəˈlʊʃən/
+soil erosion, xói mòn đất, danh từ, /sɔɪl ɪˈrəʊʒən/
+renewable resources, tài nguyên tái tạo, danh từ, /rɪˈnjuːəbl rɪˈsɔːsɪz/
+wildlife conservation, bảo tồn động vật hoang dã, danh từ, /ˈwaɪldlaɪf ˌkɒnsəˈveɪʃən/
+endangered species, loài nguy cấp, danh từ, /ɪnˈdeɪndʒəd ˈspiːʃiːz/
+green energy, năng lượng xanh, danh từ, /ɡriːn ˈɛnədʒi/
+ocean pollution, ô nhiễm đại dương, danh từ, /ˈəʊʃən pəˈlʊʃən/
+waste reduction, giảm thiểu chất thải, danh từ, /weɪst rɪˈdʌkʃən/
+organic farming, nông nghiệp hữu cơ, danh từ, /ɔːˈɡænɪk ˈfɑːmɪŋ/
+composting, ủ phân, danh từ, /ˈkɒmpɒstɪŋ/
+environmental impact, tác động môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl ˈɪmpækt/
+eco-tourism, du lịch sinh thái, danh từ, /ˈiːkəʊˈtʊərɪzəm/
+greenwashing, hành động giả tạo bảo vệ môi trường, danh từ, /ˈɡriːnˌwɒʃɪŋ/
+carbon credits, tín chỉ carbon, danh từ, /ˈkɑːbən ˈkrɛdɪts/
+sustainable development, phát triển bền vững, danh từ, /səˈsteɪnəbl dɪˈvɛləpmənt/
+environmental policy, chính sách môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl ˈpɒlɪsi/
+green building, công trình xanh, danh từ, /ɡriːn ˈbɪldɪŋ/
+air quality, chất lượng không khí, danh từ, /ɛə ˈkwɒləti/
+natural resources, tài nguyên thiên nhiên, danh từ, /ˈnæʧrəl rɪˈsɔːsɪz/
+water conservation, bảo tồn nước, danh từ, /ˈwɔːtə ˌkɒnsəˈveɪʃən/
+environmental justice, công lý môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl ˈdʒʌstɪs/
+climate change, biến đổi khí hậu, danh từ, /ˈklaɪmət ʧeɪndʒ/
+flood control, kiểm soát lũ, danh từ, /flʌd kənˈtrəʊl/
+natural disaster, thảm họa thiên nhiên, danh từ, /ˈnæʧrəl dɪˈzɑːstər/
+carbon capture, bắt giữ carbon, danh từ, /ˈkɑːbən ˈkæptʃər/
+ecological footprint, dấu chân sinh thái, danh từ, /ˌiːkəʊˈlɒdʒɪkəl ˈfʊtprɪnt/
+plastic waste, chất thải nhựa, danh từ, /ˈplæstɪk weɪst/
+sustainable transport, giao thông bền vững, danh từ, /səˈsteɪnəbl ˈtrænspɔːt/
+green space, không gian xanh, danh từ, /ɡriːn speɪs/
+renewable energy sources, nguồn năng lượng tái tạo, danh từ, /rɪˈnjuːəbl ˈɛnədʒi sɔːsɪz/
+water pollution control, kiểm soát ô nhiễm nước, danh từ, /ˈwɔːtə pəˈlʊʃən kənˈtrəʊl/
+sustainable agriculture, nông nghiệp bền vững, danh từ, /səˈsteɪnəbl ˈæɡrɪkʌltʃər/
+urban sprawl, sự mở rộng đô thị, danh từ, /ˈɜːbən sprɔːl/
+environmental awareness, nhận thức môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl əˈwɛənəs/
+green technology, công nghệ xanh, danh từ, /ɡriːn tɛkˈnɒlədʒi/
+sustainable farming, nông nghiệp bền vững, danh từ, /səˈsteɪnəbl ˈfɑːmɪŋ/
+waste reduction strategy, chiến lược giảm thiểu chất thải, danh từ, /weɪst rɪˈdʌkʃən ˈstrætədʒi/
+carbon trading, giao dịch carbon, danh từ, /ˈkɑːbən ˈtreɪdɪŋ/
+forest preservation, bảo tồn rừng, danh từ, /ˈfɒrɪst ˌprɛzəˈveɪʃən/
+environmental health, sức khỏe môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl hɛlθ/
+pollution control policy, chính sách kiểm soát ô nhiễm, danh từ, /pəˈlʊʃən kənˈtrəʊl ˈpɒlɪsi/
+urban farming, nông nghiệp đô thị, danh từ, /ˈɜːbən ˈfɑːmɪŋ/
+wildfires, cháy rừng, danh từ, /ˈwaɪldfaɪərz/
+carbon neutral energy, năng lượng trung hòa carbon, danh từ, /ˈkɑːbən ˈnjuːtrəl ˈɛnədʒi/
+ocean conservation, bảo tồn đại dương, danh từ, /ˈəʊʃən ˌkɒnsəˈveɪʃən/
+air quality index, chỉ số chất lượng không khí, danh từ, /ɛə ˈkwɒləti ˈɪndɛks/
+plastic recycling, tái chế nhựa, danh từ, /ˈplæstɪk rɪˈsaɪklɪŋ/
+green revolution, cuộc cách mạng xanh, danh từ, /ɡriːn ˌrɛvəˈluːʃən/
+habitat destruction, phá hủy môi trường sống, danh từ, /ˈhæbɪtæt dɪˈstrʌkʃən/
+sustainable design, thiết kế bền vững, danh từ, /səˈsteɪnəbl dɪˈzaɪn/
+alternative fuels, nhiên liệu thay thế, danh từ, /ɔːlˈtɜːnətɪv fjuːəlz/
+urban sustainability, bền vững đô thị, danh từ, /ˈɜːbən səˌsteɪnəˈbɪləti/
+environmental advocacy, vận động môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl ˈædvəkəsi/
+environmental policy, chính sách môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl ˈpɒlɪsi/
+rewilding, tái hoang dã, danh từ, /ˌriːˈwaɪldɪŋ/
+environmental responsibility, trách nhiệm môi trường, danh từ, /ɪnˌvaɪərənˈmɛntəl rɪˌspɒnsəˈbɪləti/
+economy, nền kinh tế, danh từ, /ɪˈkɒnəmi/
+market, thị trường, danh từ, /ˈmɑːrkɪt/
+inflation, lạm phát, danh từ, /ɪnˈfleɪʃən/
+recession, suy thoái, danh từ, /rɪˈsɛʃən/
+supply, cung, danh từ, /səˈplaɪ/
+demand, cầu, danh từ, /dɪˈmɑːnd/
+GDP (Gross Domestic Product), Tổng sản phẩm quốc nội, danh từ, /ˌdʒiːdiːˈpiː/
+unemployment, thất nghiệp, danh từ, /ˌʌnɪmˈplɔɪmənt/
+inflation rate, tỷ lệ lạm phát, danh từ, /ɪnˈfleɪʃən reɪt/
+taxation, thuế, danh từ, /tækˈseɪʃən/
+investment, đầu tư, danh từ, /ɪnˈvɛstmənt/
+profit, lợi nhuận, danh từ, /ˈprɒfɪt/
+income, thu nhập, danh từ, /ˈɪnˌkʌm/
+savings, tiết kiệm, danh từ, /ˈseɪvɪŋz/
+capital, vốn, danh từ, /ˈkæpɪtəl/
+recession, suy thoái, danh từ, /rɪˈsɛʃən/
+debt, nợ, danh từ, /dɛt/
+financial crisis, khủng hoảng tài chính, danh từ, /faɪˈnænʃəl ˈkraɪsɪs/
+stock market, thị trường chứng khoán, danh từ, /stɒk ˈmɑːrkɪt/
+interest rate, lãi suất, danh từ, /ˈɪntrɪst reɪt/
+consumer goods, hàng tiêu dùng, danh từ, /kənˈsjuːmər ɡʊdz/
+fiscal policy, chính sách tài khóa, danh từ, /ˈfɪskəl ˈpɒlɪsi/
+monetary policy, chính sách tiền tệ, danh từ, /ˈmɒnɪtəri ˈpɒlɪsi/
+recession, suy thoái, danh từ, /rɪˈsɛʃən/
+trade, thương mại, danh từ, /treɪd/
+globalization, toàn cầu hóa, danh từ, /ˌɡləʊbəlaɪˈzeɪʃən/
+export, xuất khẩu, danh từ, /ˈɛkspɔːt/
+import, nhập khẩu, danh từ, /ˈɪmpɔːt/
+wage, tiền lương, danh từ, /weɪdʒ/
+salary, lương, danh từ, /ˈsæləri/
+business, kinh doanh, danh từ, /ˈbɪznɪs/
+company, công ty, danh từ, /ˈkʌmpəni/
+corporation, tập đoàn, danh từ, /ˌkɔːpəˈreɪʃən/
+entrepreneur, doanh nhân, danh từ, /ˌɒntrəprəˈnɜːr/
+merger, sự sát nhập, danh từ, /ˈmɜːrdʒər/
+acquisition, sự mua lại, danh từ, /ˌækwɪˈzɪʃən/
+partnership, quan hệ đối tác, danh từ, /ˈpɑːtnəʃɪp/
+monopoly, độc quyền, danh từ, /məˈnɒpəli/
+competition, sự cạnh tranh, danh từ, /ˌkɒmpəˈtɪʃən/
+advertising, quảng cáo, danh từ, /ˈædvətaɪzɪŋ/
+branding, xây dựng thương hiệu, danh từ, /ˈbrændɪŋ/
+consumer, người tiêu dùng, danh từ, /kənˈsjuːmə(r)/
+retailer, nhà bán lẻ, danh từ, /ˈriːteɪlə(r)/
+wholesaler, nhà bán buôn, danh từ, /ˈhəʊlseɪlə(r)/
+trade balance, cán cân thương mại, danh từ, /treɪd ˈbæləns/
+economic growth, tăng trưởng kinh tế, danh từ, /ˌiːkəˈnɒmɪk ɡrəʊθ/
+economic development, phát triển kinh tế, danh từ, /ˌiːkəˈnɒmɪk dɪˈvɛləpmənt/
+supply chain, chuỗi cung ứng, danh từ, /səˈplaɪ ʧeɪn/
+outsourcing, gia công, danh từ, /ˈaʊtsɔːsɪŋ/
+inflationary pressures, áp lực lạm phát, danh từ, /ɪnˈfleɪʃəneri ˈprɛʃərz/
+budget, ngân sách, danh từ, /ˈbʌdʒɪt/
+deficit, thâm hụt, danh từ, /ˈdɛfɪsɪt/
+surplus, thặng dư, danh từ, /ˈsɜːpləs/
+credit, tín dụng, danh từ, /ˈkrɛdɪt/
+bond, trái phiếu, danh từ, /bɒnd/
+equity, vốn chủ sở hữu, danh từ, /ˈekwɪti/
+dividend, cổ tức, danh từ, /ˈdɪvɪdɛnd/
+inflationary spiral, vòng xoáy lạm phát, danh từ, /ɪnˈfleɪʃəneri ˈspaɪrəl/
+economic indicator, chỉ số kinh tế, danh từ, /ˌiːkəˈnɒmɪk ˈɪndɪkeɪtə/
+fiscal year, năm tài chính, danh từ, /ˈfɪskəl jɪə(r)/
+bankruptcy, sự phá sản, danh từ, /ˈbæŋkrʌptsi/
+bailout, cứu trợ tài chính, danh từ, /ˈbeɪlaʊt/
+liquidity, tính thanh khoản, danh từ, /lɪˈkwɪdəti/
+assets, tài sản, danh từ, /ˈæsɛts/
+liabilities, nghĩa vụ, danh từ, /ˌlaɪəˈbɪləti/
+merger and acquisition, sáp nhập và mua lại, danh từ, /ˈmɜːrdʒər ənd ˌækwɪˈzɪʃən/
+venture capital, vốn đầu tư mạo hiểm, danh từ, /ˈvɛntʃə ˈkæpɪtl/
+crowd funding, huy động vốn cộng đồng, danh từ, /kraʊd ˈfʌndɪŋ/
+barter, trao đổi hàng hóa, danh từ, /ˈbɑːtə(r)/
+trade war, chiến tranh thương mại, danh từ, /treɪd wɔːr/
+taxation system, hệ thống thuế, danh từ, /tækˈseɪʃən ˈsɪstəm/
+capital market, thị trường vốn, danh từ, /ˈkæpɪtl ˈmɑːrkɪt/
+social security, an sinh xã hội, danh từ, /ˈsəʊʃəl sɪˈkjʊərɪti/
+financial stability, sự ổn định tài chính, danh từ, /faɪˈnænʃəl stəˈbɪləti/
+trade deficit, thâm hụt thương mại, danh từ, /treɪd ˈdɛfɪsɪt/
+savings account, tài khoản tiết kiệm, danh từ, /ˈseɪvɪŋz əˈkaʊnt/
+interest income, thu nhập từ lãi suất, danh từ, /ˈɪntrɪst ˈɪnˌkʌm/
+consumer price index, chỉ số giá tiêu dùng, danh từ, /kənˈsjuːmər praɪs ˈɪndɛks/
+foreign exchange, trao đổi ngoại tệ, danh từ, /ˈfɔːrɪn ɪksˈʧeɪndʒ/
+wage disparity, sự chênh lệch lương, danh từ, /weɪdʒ dɪˈspærəti/
+credit rating, xếp hạng tín dụng, danh từ, /ˈkrɛdɪt ˈreɪtɪŋ/
+monetary value, giá trị tiền tệ, danh từ, /ˈmɒnɪtəri ˈvæljuː/
+financial report, báo cáo tài chính, danh từ, /faɪˈnænʃəl rɪˈpɔːt/
+price index, chỉ số giá, danh từ, /praɪs ˈɪndɛks/
+financial statement, báo cáo tài chính, danh từ, /faɪˈnænʃəl ˈsteɪtmənt/
+credit card, thẻ tín dụng, danh từ, /ˈkrɛdɪt kɑːrd/
+fiscal responsibility, trách nhiệm tài khóa, danh từ, /ˈfɪskəl rɪˌspɒnsəˈbɪləti/
+public debt, nợ công, danh từ, /ˈpʌblɪk dɛt/
+capital goods, hàng hóa vốn, danh từ, /ˈkæpɪtl ɡʊdz/
+tax evasion, trốn thuế, danh từ, /tæks ɪˈveɪʒən/
+economic policy, chính sách kinh tế, danh từ, /ˌiːkəˈnɒmɪk ˈpɒlɪsi/
+welfare state, nhà nước phúc lợi, danh từ, /ˈwɛlfɛə steɪt/
+economic disparity, sự chênh lệch kinh tế, danh từ, /ˌiːkəˈnɒmɪk dɪˈspærəti/
+cost of living, chi phí sinh hoạt, danh từ, /kɒst əv ˈlɪvɪŋ/
+government debt, nợ chính phủ, danh từ, /ˈɡʌvənmənt dɛt/
+public sector, khu vực công, danh từ, /ˈpʌblɪk ˈsɛktər/
+private sector, khu vực tư, danh từ, /ˈpraɪvət ˈsɛktər/
+economic inequality, bất bình đẳng kinh tế, danh từ, /ˌiːkəˈnɒmɪk ˌɪnɪˈkwɒlɪti/
+monetary system, hệ thống tiền tệ, danh từ, /ˈmɒnɪtəri ˈsɪstəm/
+financial market, thị trường tài chính, danh từ, /faɪˈnænʃəl ˈmɑːrkɪt/
+politics, chính trị, danh từ, /ˈpɒlɪtɪks/
+government, chính phủ, danh từ, /ˈɡʌvənmənt/
+democracy, dân chủ, danh từ, /dɪˈmɒkrəsi/
+dictatorship, chế độ độc tài, danh từ, /dɪkˈteɪtəʃɪp/
+election, cuộc bầu cử, danh từ, /ɪˈlɛkʃən/
+candidate, ứng cử viên, danh từ, /ˈkændɪdət/
+parliament, quốc hội, danh từ, /ˈpɑːləmənt/
+president, tổng thống, danh từ, /ˈprɛzɪdənt/
+senator, thượng nghị sĩ, danh từ, /ˈsɛnətə(r)/
+minister, bộ trưởng, danh từ, /ˈmɪnɪstər/
+democracy, nền dân chủ, danh từ, /dɪˈmɒkrəsi/
+dictatorship, chế độ độc tài, danh từ, /dɪkˈteɪtəʃɪp/
+election, cuộc bầu cử, danh từ, /ɪˈlɛkʃən/
+vote, bỏ phiếu, động từ, /vəʊt/
+ballot, lá phiếu, danh từ, /ˈbælət/
+candidate, ứng viên, danh từ, /ˈkændɪdət/
+campaign, chiến dịch, danh từ, /kæmˈpeɪn/
+electioneering, vận động bầu cử, danh từ, /ɪˌlɛkʃəˈnɪərɪŋ/
+referendum, cuộc trưng cầu dân ý, danh từ, /ˌrɛfəˈrɛndəm/
+coalition, liên minh, danh từ, /ˌkəʊəˈlɪʃən/
+alliance, liên minh, danh từ, /əˈlaɪəns/
+party, đảng, danh từ, /ˈpɑːti/
+opposition, phe đối lập, danh từ, /ˌɒpəˈzɪʃən/
+democracy, nền dân chủ, danh từ, /dɪˈmɒkrəsi/
+monarchy, chế độ quân chủ, danh từ, /ˈmɒnəki/
+republic, cộng hòa, danh từ, /rɪˈpʌblɪk/
+constitution, hiến pháp, danh từ, /ˌkɒnstɪˈtjuːʃən/
+law, luật pháp, danh từ, /lɔː/
+justice, công lý, danh từ, /ˈdʒʌstɪs/
+freedom, tự do, danh từ, /ˈfriːdəm/
+civil rights, quyền công dân, danh từ, /ˈsɪvəl raɪts/
+equality, bình đẳng, danh từ, /ɪˈkwɒləti/
+sovereignty, chủ quyền, danh từ, /ˈsɒvrɪnti/
+autonomy, quyền tự trị, danh từ, /ɔːˈtɒnəmi/
+regime, chế độ, danh từ, /reɪˈʒiːm/
+ambassador, đại sứ, danh từ, /æmˈbæsədə(r)/
+treaty, hiệp ước, danh từ, /ˈtriːti/
+diplomacy, ngoại giao, danh từ, /dɪˈpləʊməsi/
+negotiation, đàm phán, danh từ, /nɪˌɡəʊʃɪˈeɪʃən/
+foreign policy, chính sách đối ngoại, danh từ, /ˈfɒrɪn ˈpɒlɪsi/
+political party, đảng chính trị, danh từ, /pəˈlɪtɪkəl ˈpɑːti/
+voter, cử tri, danh từ, /ˈvəʊtə(r)/
+polling station, điểm bỏ phiếu, danh từ, /ˈpəʊlɪŋ ˈsteɪʃən/
+political debate, cuộc tranh luận chính trị, danh từ, /pəˈlɪtɪkəl dɪˈbeɪt/
+ideology, lý tưởng, danh từ, /ˌaɪdiˈɒlədʒi/
+populism, chủ nghĩa dân túy, danh từ, /ˈpɒpjʊlɪzəm/
+autocracy, chế độ chuyên quyền, danh từ, /ɔːˈtɒkrəsi/
+anarchy, tình trạng hỗn loạn, danh từ, /ˈænəki/
+reform, cải cách, động từ, /rɪˈfɔːm/
+protest, biểu tình, danh từ, /ˈprəʊtɛst/
+riot, bạo loạn, danh từ, /ˈraɪət/
+civil disobedience, sự chống đối dân sự, danh từ, /ˈsɪvəl ˌdɪsəˈbiːdiəns/
+assembly, hội nghị, danh từ, /əˈsɛmbli/
+congress, quốc hội, danh từ, /ˈkɒŋɡrɛs/
+impeachment, luận tội, danh từ, /ɪmˈpiːtʃmənt/
+legislature, cơ quan lập pháp, danh từ, /ˈlɛdʒɪslətʃər/
+authoritarian, độc tài, tính từ, /ɔːˌθɒrɪˈtɛə(ri)ən/
+totalitarian, chuyên chế, tính từ, /təʊˌtæləˈtɛə(r)ɪən/
+electoral system, hệ thống bầu cử, danh từ, /ɪˈlɛktərəl ˈsɪstəm/
+voter turnout, tỷ lệ cử tri tham gia bỏ phiếu, danh từ, /ˈvəʊtə ˈtɜːnaʊt/
+gerrymandering, chia cắt ranh giới bầu cử, danh từ, /ˈdʒɛrɪˌmændərɪŋ/
+lobbying, vận động hành lang, danh từ, /ˈlɒbɪɪŋ/
+corruption, tham nhũng, danh từ, /kəˈrʌpʃən/
+scandal, vụ bê bối, danh từ, /ˈskændl/
+transparency, sự minh bạch, danh từ, /trænsˈpærənsi/
+bribery, hối lộ, danh từ, /ˈbraɪbəri/
+human rights, quyền con người, danh từ, /ˈhjuːmən raɪts/
+social justice, công lý xã hội, danh từ, /ˈsəʊʃəl ˈdʒʌstɪs/
+civil rights, quyền công dân, danh từ, /ˈsɪvəl raɪts/
+secularism, chủ nghĩa thế tục, danh từ, /ˈsɛkjʊlərɪzəm/
+political corruption, tham nhũng chính trị, danh từ, /pəˈlɪtɪkəl kəˈrʌpʃən/
+diplomacy, ngoại giao, danh từ, /dɪˈpləʊməsi/
+ambassador, đại sứ, danh từ, /æmˈbæsədə(r)/
+embassy, đại sứ quán, danh từ, /ˈɛmbəsi/
+consulate, lãnh sự quán, danh từ, /ˈkɒnsjʊlət/
+trade agreement, thỏa thuận thương mại, danh từ, /treɪd əˈɡriːmənt/
+sanction, lệnh trừng phạt, danh từ, /ˈsæŋkʃən/
+treaty, hiệp ước, danh từ, /ˈtriːti/
+ambassadorial, thuộc về đại sứ, tính từ, /æmˌbæsəˈdɔːrɪəl/
+foreign affairs, công việc ngoại giao, danh từ, /ˈfɒrɪn əˈfɛəz/
+diplomacy, ngoại giao, danh từ, /dɪˈpləʊməsi/
+national security, an ninh quốc gia, danh từ, /ˈnæʃənl sɪˈkjʊərɪti/
+espionage, gián điệp, danh từ, /ˈɛspɪəˌnɑːʒ/
+military coup, đảo chính quân sự, danh từ, /ˈmɪlɪtəri kuː/
+arms race, cuộc chạy đua vũ trang, danh từ, /ɑːmz reɪs/
+intervention, can thiệp, danh từ, /ˌɪntəˈvɛnʃən/
+alliance, liên minh, danh từ, /əˈlaɪəns/
+coalition, liên minh, danh từ, /ˌkəʊəˈlɪʃən/
+sovereignty, chủ quyền, danh từ, /ˈsɒvrɪnti/
+union, liên minh, danh từ, /ˈjuːnɪən/
+referendum, cuộc trưng cầu dân ý, danh từ, /ˌrɛfəˈrɛndəm/
+political party, đảng chính trị, danh từ, /pəˈlɪtɪkəl ˈpɑːti/
+civil war, nội chiến, danh từ, /ˈsɪvəl wɔːr/
+international relations, quan hệ quốc tế, danh từ, /ˌɪntəˈnæʃənl rɪˈleɪʃənz/
+propaganda, tuyên truyền, danh từ, /ˌprɒpəˈɡændə/
+sovereignty, chủ quyền, danh từ, /ˈsɒvrɪnti/
+political ideology, lý thuyết chính trị, danh từ, /pəˈlɪtɪkəl ˌaɪdiˈɒlədʒi/
+tax policy, chính sách thuế, danh từ, /tæks ˈpɒlɪsi/
+political spectrum, phổ chính trị, danh từ, /pəˈlɪtɪkəl ˈspɛktrəm/
+power struggle, cuộc đấu tranh quyền lực, danh từ, /ˈpaʊə ˈstrʌɡl/
+technology, công nghệ, danh từ, /tɛkˈnɒlədʒi/
+software, phần mềm, danh từ, /ˈsɒftweə(r)/
+hardware, phần cứng, danh từ, /ˈhɑːdweə(r)/
+computer, máy tính, danh từ, /kəmˈpjuːtə(r)/
+internet, internet, danh từ, /ˈɪntənet/
+website, trang web, danh từ, /ˈwɛbsaɪt/
+app, ứng dụng, danh từ, /æp/
+cloud computing, điện toán đám mây, danh từ, /klaʊd kəmˈpjuːtɪŋ/
+database, cơ sở dữ liệu, danh từ, /ˈdeɪtəbeɪs/
+artificial intelligence, trí tuệ nhân tạo, danh từ, /ˌɑːtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/
+machine learning, học máy, danh từ, /məˈʃiːn ˈlɜːnɪŋ/
+cybersecurity, an ninh mạng, danh từ, /ˌsaɪbəsɪˈkjʊərɪti/
+blockchain, chuỗi khối, danh từ, /ˈblɒkˌtʃeɪn/
+cryptocurrency, tiền mã hóa, danh từ, /ˈkrɪptəʊˌkʌrəntsi/
+virtual reality, thực tế ảo, danh từ, /ˈvɜːtʃʊəl rɪˈæləti/
+augmented reality, thực tế tăng cường, danh từ, /ɔːɡˈmɛntɪd rɪˈæləti/
+IoT (Internet of Things), Internet vạn vật, danh từ, /ˌaɪəʊˈtiː/
+robot, rô-bốt, danh từ, /ˈrəʊbɒt/
+automation, tự động hóa, danh từ, /ˌɔːtəˈmeɪʃən/
+artificial neural network, mạng nơ-ron nhân tạo, danh từ, /ˌɑːtɪˈfɪʃəl ˈnjʊərəl ˈnɛtwɜːk/
+algorithm, thuật toán, danh từ, /ˈælɡərɪðəm/
+data mining, khai thác dữ liệu, danh từ, /ˈdeɪtə ˈmaɪnɪŋ/
+big data, dữ liệu lớn, danh từ, /bɪɡ ˈdeɪtə/
+programming, lập trình, danh từ, /ˈprəʊɡræmɪŋ/
+coding, mã hóa, danh từ, /ˈkəʊdɪŋ/
+Python, Python (ngôn ngữ lập trình), danh từ, /ˈpaɪθən/
+Java, Java (ngôn ngữ lập trình), danh từ, /ˈdʒɑːvə/
+HTML, HTML (ngôn ngữ đánh dấu siêu văn bản), danh từ, /ˌeɪtʃtiːˈɛmˈɛl/
+CSS, CSS (Cascading Style Sheets), danh từ, /ˌsiːɛsˈɛs/
+JavaScript, JavaScript (ngôn ngữ lập trình), danh từ, /ˈdʒɑːvəˌskrɪpt/
+framework, khuôn khổ, danh từ, /ˈfreɪmwɜːk/
+API (Application Programming Interface), giao diện lập trình ứng dụng, danh từ, /ˌeɪpiːˈaɪ/
+user interface, giao diện người dùng, danh từ, /ˈjuːzər ˈɪntəfeɪs/
+backend, backend (phần mềm phía máy chủ), danh từ, /ˈbækˌɛnd/
+frontend, frontend (phần mềm phía người dùng), danh từ, /ˈfrʌntˌɛnd/
+server, máy chủ, danh từ, /ˈsɜːvə(r)/
+client, khách hàng, danh từ, /ˈklaɪənt/
+URL, URL (địa chỉ web), danh từ, /ˈjuːɑːrˈɛl/
+hyperlink, siêu liên kết, danh từ, /ˈhaɪpəˌlɪŋk/
+bandwidth, băng thông, danh từ, /ˈbændwɪdθ/
+router, bộ định tuyến, danh từ, /ˈruːtə(r)/
+firewall, tường lửa, danh từ, /ˈfaɪəwɔːl/
+DNS (Domain Name System), hệ thống tên miền, danh từ, /ˈdiːɛnɛs/
+encryption, mã hóa, danh từ, /ɪnˈkrɪpʃən/
+decryption, giải mã, danh từ, /dɪˈkrɪpʃən/
+VPN (Virtual Private Network), mạng riêng ảo, danh từ, /ˈviːpiːɛn/
+cloud storage, lưu trữ đám mây, danh từ, /klaʊd ˈstɔːrɪdʒ/
+backup, sao lưu, danh từ, /ˈbækʌp/
+hacking, tấn công mạng, danh từ, /ˈhækɪŋ/
+malware, phần mềm độc hại, danh từ, /ˈmælweə(r)/
+phishing, lừa đảo qua mạng, danh từ, /ˈfɪʃɪŋ/
+trojan, phần mềm Trojan, danh từ, /ˈtrəʊdʒən/
+ransomware, phần mềm tống tiền, danh từ, /ˈrænsəmweə(r)/
+patch, bản vá, danh từ, /pætʃ/
+update, cập nhật, động từ, /ˈʌpˌdeɪt/
+download, tải về, động từ, /ˈdaʊnˌləʊd/
+upload, tải lên, động từ, /ˈʌpˌləʊd/
+USB, USB (cổng kết nối), danh từ, /ˌjuːˈɛsˈbiː/
+Bluetooth, Bluetooth (kết nối không dây), danh từ, /ˈbluːtuːθ/
+Wi-Fi, Wi-Fi (kết nối mạng không dây), danh từ, /ˈwaɪfaɪ/
+5G, 5G (mạng di động thế hệ 5), danh từ, /faɪv ˈdʒiː/
+router, bộ định tuyến, danh từ, /ˈruːtə(r)/
+modem, modem, danh từ, /ˈməʊdəm/
+bandwidth, băng thông, danh từ, /ˈbændwɪdθ/
+algorithm, thuật toán, danh từ, /ˈælɡərɪðəm/
+encryption, mã hóa, danh từ, /ɪnˈkrɪpʃən/
+IoT (Internet of Things), Internet vạn vật, danh từ, /ˌaɪəʊˈtiː/
+3D printing, in 3D, danh từ, /θriː diː ˈprɪntɪŋ/
+drone, máy bay không người lái, danh từ, /drəʊn/
+robotics, robot học, danh từ, /rəʊˈbɒtɪks/
+smart device, thiết bị thông minh, danh từ, /smɑːt dɪˈvaɪs/
+virtual machine, máy ảo, danh từ, /ˈvɜːtʃʊəl məˈʃiːn/
+quantum computing, máy tính lượng tử, danh từ, /ˈkwɒntəm kəmˈpjuːtɪŋ/
+3D modeling, mô hình 3D, danh từ, /θriː diː ˈmɒdəlɪŋ/
+UI (User Interface), giao diện người dùng, danh từ, /ˈjuːaɪ/
+UX (User Experience), trải nghiệm người dùng, danh từ, /ˈjuːɛks/
+Git, Git (hệ thống quản lý phiên bản), danh từ, /ɡɪt/
+GitHub, GitHub (nền tảng lưu trữ mã nguồn), danh từ, /ˈɡɪthʌb/
+SEO (Search Engine Optimization), tối ưu hóa công cụ tìm kiếm, danh từ, /ˌɛsˌiːˈəʊ/
+analytics, phân tích dữ liệu, danh từ, /ˌænəˈlɪtɪks/
+API (Application Programming Interface), giao diện lập trình ứng dụng, danh từ, /ˌeɪpiːˈaɪ/
+SaaS (Software as a Service), phần mềm dưới dạng dịch vụ, danh từ, /sæz/
+PaaS (Platform as a Service), nền tảng dưới dạng dịch vụ, danh từ, /pæz/
+IaaS (Infrastructure as a Service), cơ sở hạ tầng dưới dạng dịch vụ, danh từ, /aɪæz/
+microservices, dịch vụ vi mô, danh từ, /ˈmaɪkrəʊˌsɜːvɪsɪz/
+Agile, Agile (phương pháp phát triển phần mềm), tính từ, /ˈædʒaɪl/
+DevOps, DevOps (phương pháp phát triển phần mềm kết hợp với vận hành), danh từ, /ˈdɛvɒps/
+cloud infrastructure, hạ tầng đám mây, danh từ, /klaʊd ˈɪnfrəstrʌktʃər/
+microchip, vi mạch, danh từ, /ˈmaɪkrəʊˌtʃɪp/
+VR (Virtual Reality), thực tế ảo, danh từ, /viːˈɑːr/
+AR (Augmented Reality), thực tế tăng cường, danh từ, /eɪˈɑːr/
+interface, giao diện, danh từ, /ˈɪntəfeɪs/
+virtual network, mạng ảo, danh từ, /ˈvɜːtʃʊəl ˈnɛtwɜːk/
+quantum encryption, mã hóa lượng tử, danh từ, /ˈkwɒntəm ɪnˈkrɪpʃən/
+digital signature, chữ ký số, danh từ, /ˈdɪdʒɪtl ˈsɪɡnətʃər/
+smart home, nhà thông minh, danh từ, /smɑːt həʊm/
+wearables, thiết bị đeo, danh từ, /ˈwɛərəblz/
+tech startup, công ty khởi nghiệp công nghệ, danh từ, /tɛk ˈstɑːtʌp/
+3D scanning, quét 3D, danh từ, /θriː diː ˈskænɪŋ/
+quantum internet, internet lượng tử, danh từ, /ˈkwɒntəm ˈɪntənet/
+cat, con mèo, danh từ, /kæt/
+dog, con chó, danh từ, /dɒɡ/
+tiger, con hổ, danh từ, /ˈtaɪɡə(r)/
+lion, con sư tử, danh từ, /ˈlaɪən/
+elephant, con voi, danh từ, /ˈɛlɪfənt/
+bear, con gấu, danh từ, /beə(r)/
+monkey, con khỉ, danh từ, /ˈmʌŋki/
+giraffe, con hươu cao cổ, danh từ, /dʒɪˈrɑːf/
+zebra, con ngựa vằn, danh từ, /ˈziːbrə/
+horse, con ngựa, danh từ, /hɔːs/
+rabbit, con thỏ, danh từ, /ˈræbɪt/
+fox, con cáo, danh từ, /fɒks/
+wolf, con sói, danh từ, /wʊlf/
+cow, con bò, danh từ, /kaʊ/
+sheep, con cừu, danh từ, /ʃiːp/
+goat, con dê, danh từ, /ɡəʊt/
+pig, con heo, danh từ, /pɪɡ/
+chicken, con gà, danh từ, /ˈtʃɪkɪn/
+duck, con vịt, danh từ, /dʌk/
+rooster, con gà trống, danh từ, /ˈruːstər/
+swan, con thiên nga, danh từ, /swɒn/
+owl, con cú, danh từ, /aʊl/
+eagle, con đại bàng, danh từ, /ˈiːɡl/
+peacock, con công, danh từ, /ˈpiːkɒk/
+pigeon, con bồ câu, danh từ, /ˈpɪdʒɪn/
+parrot, con vẹt, danh từ, /ˈpærət/
+bat, con dơi, danh từ, /bæt/
+fish, con cá, danh từ, /fɪʃ/
+shark, cá mập, danh từ, /ʃɑːk/
+dolphin, cá heo, danh từ, /ˈdɒlfɪn/
+whale, cá voi, danh từ, /weɪl/
+octopus, con bạch tuộc, danh từ, /ˈɒktəpəs/
+squid, con mực, danh từ, /skwɪd/
+turtle, con rùa, danh từ, /ˈtɜːtl/
+crocodile, cá sấu, danh từ, /ˈkrɒkədaɪl/
+lizard, con thằn lằn, danh từ, /ˈlɪzəd/
+snake, con rắn, danh từ, /sneɪk/
+frog, con ếch, danh từ, /frɒɡ/
+toad, con cóc, danh từ, /təʊd/
+kangaroo, con chuột túi, danh từ, /ˌkæŋɡəˈruː/
+koala, con koala, danh từ, /kəʊˈɑːlə/
+panda, con gấu trúc, danh từ, /ˈpændə/
+sloth, con lười, danh từ, /sləʊθ/
+otter, con rái cá, danh từ, /ˈɒtə(r)/
+hedgehog, con nhím, danh từ, /ˈhɛdʒhɒɡ/
+squirrel, con sóc, danh từ, /ˈskwɪrəl/
+hamster, con chuột hamster, danh từ, /ˈhæmstə(r)/
+rabbit, con thỏ, danh từ, /ˈræbɪt/
+guinea pig, chuột đồng, danh từ, /ˈɡɪni pɪɡ/
+mouse, con chuột, danh từ, /maʊs/
+bat, con dơi, danh từ, /bæt/
+butterfly, con bướm, danh từ, /ˈbʌtərflaɪ/
+ant, con kiến, danh từ, /ænt/
+bee, con ong, danh từ, /biː/
+fly, con ruồi, danh từ, /flaɪ/
+spider, con nhện, danh từ, /ˈspaɪdə(r)/
+dragonfly, con chuồn chuồn, danh từ, /ˈdræɡənflaɪ/
+ladybug, con bọ rùa, danh từ, /ˈleɪdibʌɡ/
+cockroach, con gián, danh từ, /ˈkɒkrəʊtʃ/
+worm, con giun, danh từ, /wɜːm/
+flea, con bọ chét, danh từ, /fliː/
+mosquito, con muỗi, danh từ, /məˈskiːtəʊ/
+grasshopper, con châu chấu, danh từ, /ˈɡrɑːshɒpə(r)/
+caterpillar, sâu bướm, danh từ, /ˈkætəpɪlə(r)/
+seal, con hải cẩu, danh từ, /siːl/
+walrus, con voi biển, danh từ, /ˈwɔːlrəs/
+penguin, con chim cánh cụt, danh từ, /ˈpɛŋɡwɪn/
+albatross, chim hải âu, danh từ, /ˈælbətrɒs/
+crow, con quạ, danh từ, /krəʊ/
+raven, con quạ lớn, danh từ, /ˈreɪvən/
+owl, con cú, danh từ, /aʊl/
+parrot, con vẹt, danh từ, /ˈpærət/
+macaw, con vẹt mào, danh từ, /məˈkɔː/
+hornet, con vò vẽ, danh từ, /ˈhɔːnɪt/
+termite, con mối, danh từ, /ˈtɜːmaɪt/
+peacock, con công, danh từ, /ˈpiːkɒk/
+toucan, con chim tui ca, danh từ, /ˈtuːkæn/
+flamingo, con hồng hạc, danh từ, /fləˈmɪŋɡəʊ/
+heron, con cò, danh từ, /ˈhɛrən/
+stork, con hạc, danh từ, /stɔːk/
+pigeon, con bồ câu, danh từ, /ˈpɪdʒɪn/
+dove, chim bồ câu, danh từ, /dʌv/
+robin, chim sẻ đỏ, danh từ, /ˈrɒbɪn/
+wren, chim sâu, danh từ, /rɛn/
+vulture, kền kền, danh từ, /ˈvʌltʃə(r)/
+eagle, đại bàng, danh từ, /ˈiːɡl/
+hawk, chim ưng, danh từ, /hɔːk/
+kestrel, chim ưng nhỏ, danh từ, /ˈkɛstrəl/
+falcon, chim cắt, danh từ, /ˈfɔːlkən/
+parakeet, vẹt, danh từ, /ˈpærəkiːt/
+cassowary, chim đà điểu lớn, danh từ, /ˈkæsəʊˌwɛəri/
+quail, chim cút, danh từ, /kweɪl/
+grouse, chim gáy, danh từ, /ɡraʊs/
+pheasant, chim trĩ, danh từ, /ˈfɛznt/
+pigeon, bồ câu, danh từ, /ˈpɪdʒɪn/
+crow, quạ, danh từ, /krəʊ/
+sparrow, chim sẻ, danh từ, /ˈspærəʊ/
+woodpecker, chim gõ kiến, danh từ, /ˈwʊdˌpɛkə(r)/
+swallow, chim én, danh từ, /ˈswɒləʊ/
+finch, chim sẻ, danh từ, /fɪntʃ/
